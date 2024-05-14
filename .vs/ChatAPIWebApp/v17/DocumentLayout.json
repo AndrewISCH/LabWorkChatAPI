@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\models\\chatapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\models\\chatapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\models\\contactrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\models\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\models\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\models\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\models\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\controllers\\userconfigurationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\controllers\\userconfigurationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\controllers\\dialoguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\controllers\\dialoguescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\controllers\\contactrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\controllers\\contactrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|c:\\users\\andre\\source\\repos\\chatapiwebapp\\chatapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84275E08-B482-4DEA-8253-9BB84703E099}|ChatAPIWebApp\\ChatAPIWebApp.csproj|solutionrelative:chatapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\Contact.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:15:57.214Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserConfigurationsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\UserConfigurationsController.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Controllers\\UserConfigurationsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\UserConfigurationsController.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Controllers\\UserConfigurationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:01:03.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\ContactRequestsController.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Controllers\\ContactRequestsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\ContactRequestsController.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Controllers\\ContactRequestsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:00:43.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAADwvw8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:00:16.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DialoguesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\DialoguesController.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Controllers\\DialoguesController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\DialoguesController.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Controllers\\DialoguesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:59:52.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:59:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAMwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:17:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Program.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:58:45.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\appsettings.json",
+              "RelativeToolTip": "ChatAPIWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T17:18:46.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\ChatAPIContext.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Models\\ChatAPIContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\ChatAPIContext.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Models\\ChatAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:06:40.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\ContactRequest.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Models\\ContactRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\ContactRequest.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Models\\ContactRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:20:41.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Models\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\UserConfiguration.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Models\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:52:13.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\Message.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:39:45.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dialogue.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\Dialogue.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Models\\Dialogue.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\Dialogue.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Models\\Dialogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:36:38.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatAPIWebApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ChatAPIWebApp\\ChatAPIWebApp\\Models\\User.cs",
+              "RelativeToolTip": "ChatAPIWebApp\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:19:56.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
